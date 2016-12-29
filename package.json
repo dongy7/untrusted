@@ -1,0 +1,8 @@
+{
+  "name": "untrusted",
+  "version": "1.0.0",
+  "description": "Solutions to Untrusted Puzzles",
+  "main": "index.js",
+  "author": "Dong Yeop Lee",
+  "license": "MIT"
+}
