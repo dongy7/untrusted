@@ -36,7 +36,7 @@ function startLevel(map) {
                     me.move(left);
                 }
             } else if (me.getX() === barrierStartX && me.getY() === barrierStartY - 1) { // move right once to get past barrier
-                me.move('right');
+                me.move(right);
             } else { // default: move down/right
                 if (me.canMove(down)) {
                     me.move(down);
